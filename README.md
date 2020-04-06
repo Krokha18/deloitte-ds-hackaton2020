@@ -22,8 +22,8 @@ Full information about data and competition: https://www.kaggle.com/c/company-ac
 
 Our team (Wiener Sausage) :
 
-[@Krokha5](github.com/Krokha5) - me(Ivan Krokhalyov)
+[@Krokha5](https://github.com/Krokha5) - me(Ivan Krokhalyov)
 
-[@sevagul](github.com/sevagul)  - Vsevolod Hulchuk
+[@sevagul](https://github.com/sevagul)  - Vsevolod Hulchuk
 
-[@StMichael99](github.com/StMichael99) -  Misha Stolyar
+[@StMichael99](https://github.com/StMichael99) -  Misha Stolyar
