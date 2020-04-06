@@ -7,7 +7,7 @@ We took a part in prediction challenge from Deloitte company(4-5 April,2020).
 
 The main task is to classify texts(descriptions of clients of Deloitte) to 3 classes (0 - rejected by product, 1- rejected by function, 2 - accepted). Quality metric: balanced accuracy(sample has disbalance of classes)
 
-Of course, data needs to be preprocessed. We applied lowercase to all the columns, and dropped off some junk words as "and", "or".
+Of course, data needs to be preprocessed. We applied lowercase to all the columns, and dropped off some junk words as "and".
 
 In general, our solution uses text vectorizing using tf-idf, then compression of (term-document matrix) using SVD, and finally learning with RandomForestClassifier.
 
