@@ -3,7 +3,6 @@ Solutions from Deloitte Data Science Hackathon 2020( Company acceptance predicti
 
 Решения с Deloitte Data Science Hackathon 2020( Предсказание подходит ли компания по критериям).
 
-(eng):
 We took a part in prediction challenge from Deloitte company(4-5 April,2020).
 
 The main task is to classify texts(descriptions of clients of Deloitte) to 3 classes (0 - rejected by product, 1- rejected by function, 2 - accepted). Quality metric: balanced accuracy(sample has disbalance of classes)
