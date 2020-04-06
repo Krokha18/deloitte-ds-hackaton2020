@@ -19,7 +19,7 @@ In this repository you can find some trials that our team did and try make it be
 
 Full information about data and competition: https://www.kaggle.com/c/company-acceptance-prediction/overview
 
-Our team (Wiener Sausage) :
+Our team (Сосиска Винера/Wiener Sausage) :
 
 [@Krokha5](https://github.com/Krokha5) - me(Ivan Krokhalyov)
 
