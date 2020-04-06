@@ -1,7 +1,7 @@
 # deloitte-ds-hackaton2020
-Solutions from Deloitte Data Science Hackathon 2020( Company acceptance prediction )
+Solutions from Deloitte Data Science Hackathon 2020(Company acceptance prediction )
 
-Решения с Deloitte Data Science Hackathon 2020( Предсказание подходит ли компания по критериям).
+Решения с Deloitte Data Science Hackathon 2020(Предсказание подходит ли компания по критериям).
 
 We took a part in prediction challenge from Deloitte company(4-5 April,2020).
 
