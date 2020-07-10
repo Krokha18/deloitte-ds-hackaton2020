@@ -21,7 +21,7 @@ Full information about data and competition: https://www.kaggle.com/c/company-ac
 
 Our team (Сосиска Винера/Wiener Sausage) :
 
-[@Krokha5](https://github.com/Krokha5) - me(Ivan Krokhalyov)
+[@Krokha18](https://github.com/Krokha18) - me(Ivan Krokhalyov)
 
 [@sevagul](https://github.com/sevagul)  - Vsevolod Hulchuk
 
